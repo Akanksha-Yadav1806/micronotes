@@ -1,6 +1,7 @@
 # MicroNotes
 
 A small full-stack notes app built with React (frontend) and Express (backend). Type a note and it appears instantly in the list below, stored on the server while it's running.
+![MicroNotes screenshot](./screenshots/screenshot.png)
 
 ## What it does
 - Add a note (title + content)
